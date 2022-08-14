@@ -56,22 +56,22 @@ colors:
 
   normal:
     black:   '#121212'
-    red:     '#A46E6E'
-    green:   '#8AA46E'
-    yellow:  '#A48D6E'
-    blue:    '#798fae'
-    magenta: '#776EA4'
-    cyan:    '#6EA4A2'
+    red:     '#987678'
+    green:   '#769877'
+    yellow:  '#B29265'
+    blue:    '#768498'
+    magenta: '#987698'
+    cyan:    '#769897'
     white:   '#a0a0a0'
 
 
   bright:
-    black:   '#4c4c4c' # give the color more lighter (for zsg suggestions)
-    red:     '#C08181'
-    green:   '#A2C081'
-    yellow:  '#C0A581'
-    blue:    '#819BC0'
-    magenta: '#8C81C0'
-    cyan:    '#81C0BE'
+    black:   '#4c4c4c' # give the color more lighter (for zsh suggestions)
+    red:     '#A78587'
+    green:   '#85A786'
+    yellow:  '#C1A174'
+    blue:    '#8693A7'
+    magenta: '#A78587'
+    cyan:    '#769897'
     white:   '#BEBEbE'
 
