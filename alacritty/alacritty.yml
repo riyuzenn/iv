@@ -1,0 +1,77 @@
+# Configuration for Alacritty, the GPU enhanced terminal emulator.
+
+env:
+  TERM: "xterm-256color"
+
+window:
+  #dimensions:
+  #  columns: 0
+  #  lines: 0
+  #position:
+  #  x: 0
+  #  y: 0
+  padding:
+    x: 30
+    y: 30
+  #dynamic_padding: false
+  #decorations: full
+  #startup_mode: Windowed
+  #title: Alacritty
+  #dynamic_title: true
+  #class:
+    #instance: Alacritty
+    #general: Alacritty
+  #gtk_theme_variant: None
+
+#scrolling:
+  #history: 10000
+  #multiplier: 3
+
+font:
+  normal:
+    family: JetBrains Mono
+    style: Regular
+  bold:
+    family: JetBrains Mono
+    style: Bold
+  italic:
+    family: JetBrains Mono
+    style: Italic
+  bold_italic:
+    family: JetBrains Mono
+    style: Bold Italic
+  size: 10.0
+  offset:
+    x: 1
+    y: 0
+  glyph_offset:
+    x: 0
+    y: 0
+  use_thin_strokes: true
+
+colors:
+  primary:
+    background: '#0c0c0c'
+    foreground: '#a0a0a0'
+
+  normal:
+    black:   '#121212'
+    red:     '#A46E6E'
+    green:   '#8AA46E'
+    yellow:  '#A48D6E'
+    blue:    '#798fae'
+    magenta: '#776EA4'
+    cyan:    '#6EA4A2'
+    white:   '#a0a0a0'
+
+
+  bright:
+    black:   '#1c1c1c'
+    red:     '#C08181'
+    green:   '#A2C081'
+    yellow:  '#C0A581'
+    blue:    '#819BC0'
+    magenta: '#8C81C0'
+    cyan:    '#81C0BE'
+    white:   '#BEBEbE'
+
