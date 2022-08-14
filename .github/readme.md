@@ -20,9 +20,6 @@
   <ol>
     <li>
       <a href="#books-about">About the colorscheme</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
     </li>
     <li>
       <a href="#themes">Themes</a>
@@ -32,10 +29,6 @@
     </li>
     <li>
       <a href="#art-palette">Palette</a>
-      <ul>
-        <li><a href="#spades">Spades</a></li>
-        <li><a href="#cloverT">Clover</a></li>
-      </ul>
     </li>
     <li>
       <a href="#branding">Branding</a>
