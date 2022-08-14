@@ -51,17 +51,17 @@ font:
 
 colors:
   primary:
-    background: '#0c0c0c'
+    background: '#0F0F0F'
     foreground: '#a0a0a0'
 
   normal:
     black:   '#121212'
-    red:     '#987678'
-    green:   '#769877'
-    yellow:  '#B29265'
-    blue:    '#768498'
-    magenta: '#987698'
-    cyan:    '#769897'
+    red:     '#9d7b7d'
+    green:   '#7b9d7c'
+    yellow:  '#b7976a'
+    blue:    '#7c899d'
+    magenta: '#9d7b9d'
+    cyan:    '#6c8e8d'
     white:   '#a0a0a0'
 
 
@@ -71,7 +71,7 @@ colors:
     green:   '#85A786'
     yellow:  '#C1A174'
     blue:    '#8693A7'
-    magenta: '#A78587'
+    magenta: '#987698'
     cyan:    '#769897'
     white:   '#BEBEbE'
 
