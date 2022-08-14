@@ -1,4 +1,4 @@
-![Spade](.github/assets/palettes/spade/colorscheme.png)
+![Spade](../.github/assets/palettes/spade/colorscheme.png)
 
 ## Spade
 
@@ -11,11 +11,11 @@ Here are some design parameters with the color code that I designed using [figma
 
 #### Alphas  
 
-![Alpha](.github/assets/palettes/spade/alphas.png)
+![Alpha](../.github/assets/palettes/spade/alphas.png)
 
 #### Accents  
 
-![Accents](.github/assets/palettes/spade/accents.png)
+![Accents](../.github/assets/palettes/spade/accents.png)
 
 <br />
 <a href="https://github.com/riyuzenn/iv" align="left">« Back</a>
