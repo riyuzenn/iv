@@ -2,14 +2,15 @@
   <img src="assets/logo.png" width="80" height="80" />
   <h1>iv.</h1>
   <p>A dark vibrant minimal colorscheme designed for dark modes.</p>
-  <a href="#resources"><strong>Explore the design resources »</strong></a>  
-  <br></br>  
-  
-  <a href="#themes">Themes</a> ·
-  <a href="#palette">Palette</a> ·
-  <a href="#acknowledgment">Acknowledgment</a>
+  <h6>
+    <a href="#themes">Themes</a> ·
+    <a href="#palette">Palette</a> ·
+    <a href="#acknowledgment">Acknowledgment</a>
+  </h6>
+  <p><a href="#themes"><strong>Explore the design resources »</strong></a></p>
   
   <img src="assets/colorscheme.png" height="100" />
+    
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -49,8 +50,14 @@
 <br />
 
 ## About
+#### IV (noun) [ī-ˈvē]
+
+A dark vibrant color scheme intended to be attractive and elegant in the eyes of the user It intends to be high-contrast.   
+Yet preserving a reasonable degree of low-contrast that emphasizes simplicity and readability of the theme.  
 
 ## Themes
+
+
 
 ## Palette
 
