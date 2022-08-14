@@ -57,9 +57,12 @@ Yet preserving a reasonable degree of low-contrast that emphasizes simplicity an
 
 ## Themes
 
-
-
 ## Palette
+
+IV. has two major palettes that defines the lightness and darkness of the two.
+
+- [Spade](../palettes/spade.md)
+- [Clover](../palettes/clover.md)
 
 ## Branding
 
