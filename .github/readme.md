@@ -51,7 +51,7 @@
 
 ## About
 #### IV (noun) [ī-ˈvē]
-
+##### For contributing kindly check the specific [docs here](contributing.md)
 A dark vibrant color scheme intended to be attractive and elegant in the eyes of the user It intends to be high-contrast.   
 Yet preserving a reasonable degree of low-contrast that emphasizes simplicity and readability of the theme.  
 
