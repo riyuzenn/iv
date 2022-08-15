@@ -1,4 +1,4 @@
-![Spade](../.github/assets/palettes/spade/colorscheme.png)
+![Spade](../.github/assets/palettes/clover/colorscheme.png)
 
 ## Clover
 A light theme for the IV. that consist of the main color. Intended to be attractive and elegant in the eyes of the user. It aims to be high-contrast.
