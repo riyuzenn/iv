@@ -47,7 +47,7 @@
 ##### For contributing kindly check the specific [docs here](contributing.md)
 
 <img src="assets/banner.png" height="150" />  
-A dark vibrant color scheme intended to be attractive and elegant in the eyes of the user It intends to be high-contrast.   
+A dark vibrant color scheme intended to be pale attractive and elegant in the eyes of the user It intends to be high-contrast.   
 Yet preserving a reasonable degree of low-contrast that emphasizes simplicity and readability of the theme.  
 
 ## Themes
@@ -65,6 +65,5 @@ IV. has two major palettes that defines the lightness and darkness of the two.
 #### With these wonderful software/people IV. is made possible (cttro)!
 
 - [Coolors.co](https://coolors.co) - Great palette generation.
-- [Mountain](https://github.com/mountain-theme) - IV. is heavily inspired from [Mountain](https://github.com/mountain-theme) check it out it's worth it!
 - [Htmlcolorcodes.com](https://htmlcolorcodes.com) - Website with clean UI for handling hex color codes or rgb (even hsl).
 - [Figma.com](https://figma.com) - Interface design tool that I use to design mostly all assets. Worth checking out (it offers free plan)
