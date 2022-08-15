@@ -8,7 +8,7 @@ Yet preserving a reasonable degree of low-contrast that emphasizes simplicity an
 
 ### Design Parameters
 
-Here are some design parameters with the color code that I designed using [figma](https://figma.com) to help visualize the colors of the IV Spade. 
+Here are some design parameters with the color code that I designed using [figma](https://figma.com) to help visualize the colors of the IV Clover. 
 
 #### Alphas  
 
