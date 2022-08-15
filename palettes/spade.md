@@ -20,5 +20,5 @@ Here are some design parameters with the color code that I designed using [figma
 <br />
 <a href="https://github.com/riyuzenn/iv" align="left">« Back</a>
 <div align="right">
-  <a href="https://github.com/riyuzenn/iv">Next »</a>
+  <a href="./clover.md">Next »</a>
 </div>
