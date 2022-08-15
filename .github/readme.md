@@ -7,7 +7,7 @@
     <a href="#art-palette">Palette</a> ·
     <a href="#gift_heart-acknowledgment">Acknowledgment</a>
   </h6>
-  <p><a href="#themes"><strong>Explore the design resources »</strong></a></p>
+  <p><a href="./resources/"><strong>Explore the design resources »</strong></a></p>
   
   <img src="assets/colorscheme.png" height="100" />
     
