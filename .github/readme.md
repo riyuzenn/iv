@@ -52,7 +52,7 @@ Yet preserving a reasonable degree of low-contrast that emphasizes simplicity an
 
 ## Themes  
 
-With the help of open-soruce community, IV can be used from several programs. Here are the list of all official supported themes.
+With the help of open-soruce community, IV can be used from several programs. Here are the list of all official supported themes for several programs.
 
 ### Available Themes
 
