@@ -1,0 +1,38 @@
+! IV Theme: https://github.com/riyuzenn/iv
+
+! special
+*.foreground:   #a0a0a0
+*.background:   #0c0c0c
+*.cursorColor:  #a0a0a0
+
+! black
+*.color0:       #1c1c1c
+*.color8:       #353535
+
+! red
+*.color1:       #9d7b7d
+*.color9:       #a78587
+
+! green
+*.color2:       #7b9d7c
+*.color10:      #85a786
+
+! yellow
+*.color3:       #b7976a
+*.color11:      #c1a174
+
+! blue
+*.color4:       #687589
+*.color12:      #8593a7
+
+! magenta
+*.color5:       #937193
+*.color13:      #a785a7
+
+! cyan
+*.color6:       #628483
+*.color14:      #85a7a6
+
+! white
+*.color7:       #a0a0a0
+*.color15:      #bebebe
