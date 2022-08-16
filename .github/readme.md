@@ -50,7 +50,15 @@
 A dark vibrant color scheme intended to be pale attractive and elegant in the eyes of the user It intends to be high-contrast.   
 Yet preserving a reasonable degree of low-contrast that emphasizes simplicity and readability of the theme.  
 
-## Themes
+## Themes  
+
+With the help of open-soruce community, IV can be used from several programs. Here are the list of all official supported themes.
+
+### Available Themes
+
+- [Alacritty](../alacritty/) - Terminal Emulator
+- [Dunst](../dunst/) - Notification Daemon Manager
+- [Xresources](../Xresources/) - Resources for X
 
 ## :art: Palette
 
