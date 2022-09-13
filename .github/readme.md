@@ -56,6 +56,7 @@ With the help of open-soruce community, IV can be used from several programs. He
 
 ### Available Themes
 
+- [vscode](https://github.com/riyuzenn/vscode) - Customizable text editor
 - [Alacritty](../alacritty/) - Terminal Emulator
 - [Dunst](../dunst/) - Notification Daemon Manager
 - [Xresources](../Xresources/) - Resources for X
