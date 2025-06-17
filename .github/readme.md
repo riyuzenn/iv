@@ -60,6 +60,7 @@ With the help of open-soruce community, IV can be used from several programs. He
 - [Alacritty](../alacritty/) - Terminal Emulator
 - [Dunst](../dunst/) - Notification Daemon Manager
 - [Xresources](../Xresources/) - Resources for X
+- [monkeytype](https://monkeytype.com) - Typing website. Use *iv spade* / *iv clover*
 
 ## :art: Palette
 
